@@ -6,3 +6,7 @@
 button {
     margin-top: 1em;
 }
+
+#mostFrequentLists button:first-child {
+    margin-top: 0em;
+}
